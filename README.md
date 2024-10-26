@@ -1,6 +1,6 @@
 ---
 title: Ookla Speedtest Global Index (2017-2024)
-description: Caribbean
+description: Eastern Africa
 ---
 
 ## Fixed broadband speed by country (worldwide)
@@ -10,3 +10,4 @@ description: Caribbean
     url: 'ookla_broadband.csv'
   }}
 />
+
